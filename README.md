@@ -23,11 +23,9 @@ Projeto com foco em automação administrativa e integração de sistemas.
 
 # Bot funcionando no Slack
 
-<p align="center">
   <img width="500" alt="Bot de férias no Slack" src="https://github.com/user-attachments/assets/0f4e3326-087c-436e-96c6-7107394a0c6a" />
-</p>
 
-<p align="center">
+<p>
   <em>Mensagem automática enviada ao gestor informando o início do período de férias do colaborador</em>
 </p>
 

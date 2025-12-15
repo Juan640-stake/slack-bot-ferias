@@ -1,18 +1,18 @@
 
 const CONFIG = {
-  SHEET_NAME: 'Ferias', // nome da aba
+  SHEET_NAME: 'Ferias', 
   SLACK_TOKEN: '',
 
-  // Colunas da planilha (A=1, B=2...)
-  COL_COLABORADOR: 1,   // A
-  COL_DATA_INICIO: 2,   // B
-  COL_DATA_FIM: 3,      // C 
-  COL_GESTOR: 4,        // D
-  COL_SLACK_ID: 5,      // E
-  COL_CIENTE: 6,        // F
-  COL_OBSERVACAO: 7,    // G
-  COL_NOTIFICAR: 8,     // H
-  COL_ENVIADO: 9        // I
+
+  COL_COLABORADOR: 1,   
+  COL_DATA_INICIO: 2,   
+  COL_DATA_FIM: 3,      
+  COL_GESTOR: 4,        
+  COL_SLACK_ID: 5,      
+  COL_CIENTE: 6,        
+  COL_OBSERVACAO: 7,    
+  COL_NOTIFICAR: 8,     
+  COL_ENVIADO: 9     
 };
 
 function onOpen() {
